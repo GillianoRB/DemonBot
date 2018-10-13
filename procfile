@@ -1,1 +1,1 @@
-worker: python CreepyBot.py
+worker: python3 CreepyBot.py
